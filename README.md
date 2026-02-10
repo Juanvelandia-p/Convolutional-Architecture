@@ -88,3 +88,17 @@ This study shows that convolutional neural networks provide a clear advantage ov
 Carefully designed CNN architectures can achieve strong performance while remaining computationally efficient and interpretable.
 
 ## Sagemaker
+
+
+First we open Sagemaker studio
+![alt text](image.png)
+Then we open the code editor section
+![alt text](image-1.png)
+And we select create code space 
+![alt text](image-2.png)
+The next step is run the space and open the code editor
+![alt text](image-3.png)
+Now we create a new directory
+![alt text](image-4.png)
+And for last we copy the notebook and select run all, for chechk the correct running
+![alt text](image-5.png)
